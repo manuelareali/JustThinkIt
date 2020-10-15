@@ -1,0 +1,4 @@
+
+The system shall provide the possibility to book a volunteer shift.
+The system shall provide for donation packages destined for a caritas by volunteers and shops.
+The system shall provide for the possiblility for caritas to ban users.
