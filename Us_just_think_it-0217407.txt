@@ -1,5 +1,0 @@
-
-
-1)As Caritas I want to know where the donation packages are, so that I can collect them.
-2)As a shop I want to be able to propose an event, in which I offer my products at an affordable price to caritas, to help it.
-3)As a volunteer I want to be able to create a donation package so that a caritas can pick it up at my home.
