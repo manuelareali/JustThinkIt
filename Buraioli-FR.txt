@@ -1,0 +1,5 @@
+
+
+the system shall provide a map service that can show caritas, donations and events within your city.
+the system shall add to the profile of the volunteer who has accepted the volunteer shift, an icon and a text indicating the day and time of the reservation.
+the system shall provide a bulletin board where caritas can publish their food or clothing needs.
