@@ -1,3 +1,3 @@
-As a caritas, I want to accept events offered by the shops, to be able to buy products at lower prices.
-As a volunteer I want to be able to book a volunteer shift.
-As a shop I want to be able to find the nearest caritas to offer offers.
+As a caritas, I want to accept events offered by the shops to be able to buy products at lower prices.
+As a shop I want to be able to find the nearest caritas to propose offers.
+As a volunteer I want to be able to find the caritas in my city through a map in order to participate in an event.
